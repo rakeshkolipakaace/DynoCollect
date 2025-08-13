@@ -517,7 +517,7 @@ We welcome contributions from the community! Here's how you can help make DynoCo
 
 1. **Fork the Repository**
    ```bash
-   git fork https://github.com/mohan13krishna/DynoCollect.git
+   git fork https://github.com/rakeshkolipakaace/DynoCollect.git
    ```
 
 2. **Create Feature Branch**
